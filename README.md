@@ -5,7 +5,7 @@
 不得已，搬到GitHub，继续给大家做分享。  
 愿有朝一日能除尽国内所有垃圾公司，还大家一个良好的工作环境。  
 
-2024-04-10
+2024-05-10
 
 ## 中软自发总结的维权新人必读
 https://pan.baidu.com/s/1XC0zj9sjK2KWv4hhYrxaEA?pwd=niqq  
