@@ -7,7 +7,7 @@
 
 2024-05-10
 
-# 罪魁祸首
+## 罪魁祸首
 严华，法定代表人，13802559185，alen.yan@farben.com.cn  
 唐北海，法务主管，17512042990，beihai.tang@farben.com.cn  
 周祖文，法律顾问，13728972708，zuwen.zhou@farben.com.cn  
@@ -16,6 +16,9 @@
 https://pan.baidu.com/s/1XC0zj9sjK2KWv4hhYrxaEA?pwd=niqq  
 大量劳动纠纷实战经验总结，适用于国内所有IT外包公司，必须细看。  
 中软兄弟姐妹的团结一心、互帮互助、无私分享的精神，非常值得我们学习。
+
+## 李羿楠：劳动仲裁诉讼实战全解析
+https://pan.baidu.com/s/1bTqhqPoZicwzh6wwMNzMxg?pwd=8888  
 
 ## 如何贡献
 以事件名建立对应文件夹，在文件夹中放置相关资料。  
