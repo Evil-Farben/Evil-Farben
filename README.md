@@ -7,6 +7,11 @@
 
 2024-05-10
 
+# 罪魁祸首
+严华，法定代表人，13802559185，alen.yan@farben.com.cn  
+唐北海，法务主管，17512042990，beihai.tang@farben.com.cn  
+周祖文，法律顾问，13728972708，zuwen.zhou@farben.com.cn  
+
 ## 中软自发总结的维权新人必读
 https://pan.baidu.com/s/1XC0zj9sjK2KWv4hhYrxaEA?pwd=niqq  
 大量劳动纠纷实战经验总结，适用于国内所有IT外包公司，必须细看。  
